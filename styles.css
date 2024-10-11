@@ -1,1 +1,23 @@
 /* your code */
+.table{
+	border:2px solid black;
+     border-collapse: collapse;
+	 padding:5px;
+	
+}
+th,td{
+	padding:5px;
+	text-align:left;
+}
+.blue{
+	background-color:blue;
+	color:white;
+	
+}
+.gray{
+	background-color:lightgray;
+}
+.pass{
+	padding-left:65px;
+	font-weight:bold;
+}
